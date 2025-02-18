@@ -1,0 +1,3 @@
+com/akentech/microservices/common/dto/events/ProductCreatedEvent.class
+com/akentech/microservices/common/dto/InventoryResponse.class
+com/akentech/microservices/common/dto/InventoryRequest.class
